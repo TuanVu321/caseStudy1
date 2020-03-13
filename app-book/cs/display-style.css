@@ -1,0 +1,67 @@
+table {
+    width: 90%;
+    border: 2px black solid;
+    border-collapse: collapse;
+    text-align: left;
+    margin-left: 60px;
+    margin-top: 70px;
+}
+
+th, td {
+    border: 2px black solid;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+thead {
+    color: crimson;
+}
+
+h1 {
+    width: 80%;
+    margin-bottom: 50px;
+    text-align: center;
+    margin-left: 100px;
+  
+}
+
+#nen {
+    background: aqua;
+}
+
+
+#page{
+    text-align: center;
+    width: 100%;
+    background: green;
+    height: 100px;
+    margin-bottom: 0;
+   }
+#add {
+    width: 20%;
+    height: 1000px;
+    text-align: left;
+    float: left;
+    background: #e4e0ff;
+    margin-top: 0;
+
+
+}
+
+#main{
+width: 80%;
+float: left;
+
+}
+#info{
+    margin-left: 50px;
+}
+
+#exit{
+    margin-top: 200px;
+margin-left: 70%;
+}
+button{
+    margin-left: 10px;
+    width: 100px;
+}

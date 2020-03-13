@@ -1,0 +1,20 @@
+h2{
+    width: 100%;
+    color: crimson;
+    text-align: center;
+}
+#buy{
+    width: 30%;
+    text-align: left;
+    margin: 0 auto;
+
+}
+
+button{
+    margin-top: 20px;
+    padding: 10px;
+    margin-left: 30px;
+}
+body{
+    background: gray;
+}

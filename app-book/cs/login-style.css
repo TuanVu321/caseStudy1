@@ -1,0 +1,52 @@
+#login{
+    margin-top: 5%;
+    margin-left: 40%;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+body{
+    background-image: url("../image/anh.jpg") ;
+}
+
+
+
+.input-container {
+    display: -ms-flexbox;
+    display: flex;
+    width: 350px;
+    margin-bottom: 15px;
+}
+
+.icon {
+    padding: 10px;
+    background: dodgerblue;
+    color: white;
+    min-width: 50px;
+    text-align: center;
+}
+
+.input-field {
+    width: 350px;
+    padding: 10px;
+    outline: none;
+}
+
+.input-field:focus {
+    border: 2px solid dodgerblue;
+}
+
+.btn {
+    background-color: dodgerblue;
+    color: white;
+    padding: 15px 20px;
+    border: none;
+    cursor: pointer;
+    width: 350px;
+    opacity: 0.9;
+}
+
+.btn:hover {
+    opacity: 1;
+}
